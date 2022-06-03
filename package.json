@@ -7,7 +7,8 @@
     "example": "./example"
   },
   "scripts": {
-    "node-gyp": "node-gyp"
+    "node-gyp": "node-gyp",
+    "install": "node-gyp rebuild"
   },
   "keywords": [],
   "repository": {
